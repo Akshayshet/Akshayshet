@@ -1,14 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
+I'm a passionate Full Stack Developer with a focus on building robust and scalable applications. Here are some key highlights about me:
 
+- 🔭 **Currently working as a Full Stack Developer**
+- 💻 **Specialized in:** 
+  - **Backend:** Java, Spring Boot
+  - **Frontend:** Angular
+  - **Cloud Services:** AWS (S3, SQS, SNS, Lambda, EC2)
+- 🚀 **What I do:**
+  - Design and build RESTful APIs
+  - Develop responsive and dynamic web applications
+  - Implement secure and efficient backend systems
+  - Integrate and manage AWS services like S3, SQS, and SNS
+  - Deploy and manage cloud infrastructure using AWS
+  - Collaborate with teams to deliver end-to-end solutions
+- 🌱 **Always learning:** Exploring new technologies and best practices in software development.
 
-Here are some ideas to get you started:
+Feel free to check out my repositories and projects. Let's connect and build something amazing together!
 
-- 🔭 I’m currently working as Full Stack Developer 
-- 🌱 I’m currently learning Angular And Node
-- 👯 I’m looking to collaborate on Full Stack Projects
-- 💬 Ask me about Anything
-- 📫 How to reach me: akshayshet88@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Traveller
-
+📫 **How to reach me:** [akshayshet88@gmail.com]
