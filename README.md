@@ -5,7 +5,7 @@ I'm a passionate Full Stack Developer with a focus on building robust and scalab
 - 🔭 **Currently working as a Full Stack Developer**
 - 💻 **Specialized in:** 
   - **Backend:** Java, Spring Boot
-  - **Frontend:** Angular
+  - **Frontend:** React
   - **Cloud Services:** AWS (S3, SQS, SNS, Lambda, EC2)
 - 🚀 **What I do:**
   - Design and build RESTful APIs
